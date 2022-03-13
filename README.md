@@ -1,5 +1,5 @@
 # martink-react-three-fiber-minecraft-style-game
-
+![Preview](preview.png 'Preview')
 In the project directory, you can run:
 
 ### `npm install`
